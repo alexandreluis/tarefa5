@@ -1,0 +1,7 @@
+Parecer sobre a prototipação do Projeto Integrador de Alexandre Luis Rigotti
+Por: Daniel Magalhães Caumo
+
+O projeto apresentado é excelente e bastante desafiador, apesar de compacto na protatipação, por demandar poucas telas, é bastante desafiador em seu back end que demandará bastante pesquisa e conhecimento, algo que o colega vem demonstrando nas aulas.
+Penso que o colega pode trabalhar um pouco mais o front end, apesar de que isso não é o mais importante no momento, o mais importante é fazer todas as funções e métodos demandadas funcionarem.
+
+Muito sucesso no projeto!
